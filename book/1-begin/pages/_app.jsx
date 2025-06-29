@@ -18,5 +18,4 @@ class MyApp extends App {
 }
 
 MyApp.propTypes = propTypes;
-
 export default MyApp;
