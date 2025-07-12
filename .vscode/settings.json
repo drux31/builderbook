@@ -11,9 +11,9 @@
     "typescriptreact"
   ],
   "eslint.enable": true,
-  "eslint.packageManager": "yarn",
+  //"eslint.packageManager": "yarn", ==> package automatically detected
   "editor.codeActionsOnSave": {
-    "source.fixAll.eslint": true
+    "source.fixAll.eslint": "explicit"
   },
   "eslint.workingDirectories": [
     {
